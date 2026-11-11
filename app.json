@@ -37,6 +37,17 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "349af0e9-1269-4599-9ed7-d3005a43b56d"
+      }
+    },
+    "owner": "xdravynxs-team"
   }
 }
